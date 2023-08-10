@@ -4,9 +4,11 @@ link for this website is ->
 https://nikhilrajrajput.github.io/imdb-clone/
 
 Some features are
-1- Show the list of trending movie
-2- Add your movie to favourite list
-3- Show the details description of the movie
+#1- Show the list of trending movie
+
+#2- Add your movie to favourite list
+
+#3- Show the details description of the movie
 
 #Screenshot-> 
 
